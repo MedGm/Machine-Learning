@@ -5,7 +5,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="90" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="90" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="90" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/TensorFlow_logo.svg" height="90" />
 </p>
 
 Bienvenue dans ce dépôt GitHub qui regroupe mes **travaux pratiques** et **ateliers** réalisés dans le cadre de l'apprentissage du module **Machine Learning**.
