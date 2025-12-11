@@ -24,7 +24,7 @@ Chaque atelier est un projet indépendant illustrant une thématique précise (r
 |--------|---------|-------|-------------------|
 | **Atelier 1 – Régression** | [`Atelier1_Regression/`](Atelier1_Regression/) | Régression linéaire simple, multiple, polynomiale | Exploration, métriques (MSE, RMSE, MAE), rapport LaTeX détaillé. |
 | **Atelier 2 – Classification** | [`Atelier2_Classification/`](Atelier2_Classification/) | Classification binaire (Diabète) | Data viz, sélection de features, KNN/DT/ANN/NB/SVM, ensembles, métriques (Accuracy, Log Loss, AUC). |
-| **Atelier 3 – Clustering** | [`Atelier3_Clustering/`](Atelier3_Clustering/) | Clustering non supervisé | K-Means, Fuzzy C-Means, DBSCAN, EM (GMM), SOM, Hierarchical Clustering, PCA, t-SNE, rapport LaTeX. |
+| **Atelier 3 – Clustering** | [`Atelier3_Clustering/`](Atelier3_Clustering/) | Clustering non supervisé | K-Means, Fuzzy C-Means, DBSCAN, EM (GMM), SOM, Hierarchical Clustering, PCA, t-SNE. |
 | **Coming Soon...** | [`/#`](/#) |  |  |
 
 > Chaque dossier aura (ou possède) son propre `README.md` détaillant l'objectif, la structure et les instructions d'exécution.
